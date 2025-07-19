@@ -1,0 +1,26 @@
+{
+  "cheats": [
+    {
+      "id": "nerestpc",
+      "name": "NerestPC",
+      "link": "https://example.com/aimgod",
+      "votes": 0,
+      "image": "nerestpc.png"
+    },
+    {
+      "id": "plutonium",
+      "name": "Plutonium",
+      "link": "https://example.com/wallmaster",
+      "votes": 0,
+      "image": "plutonium.jpg"
+    },
+    {
+      "id": "elysium",
+      "name": "Elysium",
+      "link": "https://example.com/speedhack",
+      "votes": 0,
+      "image": "elysium.png"
+    }
+  ],
+  "reviews": []
+}
